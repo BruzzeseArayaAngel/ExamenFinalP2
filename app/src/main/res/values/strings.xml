@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Registro Medidor</string>
+    <string name="nuevo_registro">nuevo_registro</string>
+    <string name="registro_de_medidores">registro_de_medidores</string>
+    <string name="registro_medidor">Registro Medidor</string>
+    <string name="agua">Agua</string>
+    <string name="luz">Luz</string>
+    <string name="gas">Gas</string>
+    <string name="tipo_agua">Agua</string>
+    <string name="tipo_luz">Luz</string>
+    <string name="tipo_gas">Gas</string>
+    <string name="valor">Medidor</string>
+    <string name="fecha_formato">Fecha</string>
+    <string name="btn_text_registrar_medicion">Registrar medición</string>
+
+</resources>

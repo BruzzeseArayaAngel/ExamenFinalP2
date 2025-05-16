@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meter Registration</string>
+    <string name="nuevo_registro">nuevo_registro</string>
+    <string name="registro_de_medidores">registro_de_medidores</string>
+    <string name="registro_medidor">Meter Registration</string>
+    <string name="agua">Water</string>
+    <string name="luz">Electricity</string>
+    <string name="gas">Gas</string>
+    <string name="tipo_agua">Water</string>
+    <string name="tipo_luz">Electricity</string>
+    <string name="tipo_gas">Gas</string>
+    <string name="valor">Meter</string>
+    <string name="fecha_formato">Date</string>
+    <string name="btn_text_registrar_medicion">Record measurement</string>
+</resources>
